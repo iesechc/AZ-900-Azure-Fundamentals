@@ -3,9 +3,9 @@
 ---
 
 ## 📂 Contenido
-- [01 – Describe Cloud Concepts](01-describe-cloud-concepts)
-- [02 – Describe Azure Architecture and Services](02-describe-azure-architecture-and-services)
-- [03 – Describe Azure Management and Governance](03-describe-azure-management-and-governance)
+- [01 – Describe Cloud Concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+- [02 – Describe Azure Architecture and Services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
+- [03 – Describe Azure Management and Governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
 
 ---
 
