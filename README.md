@@ -3,9 +3,6 @@
 ---
 
 ## 📂 Contenido
-- [01 – Describe Cloud Concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
-- [02 – Describe Azure Architecture and Services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
-- [03 – Describe Azure Management and Governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
 
 ---
 
@@ -15,7 +12,10 @@
 
 ## 📘 Learning Resources – Docs
 - **Certification exam preparation by Azure:**  
-  https://learn.microsoft.com/credentials/certifications/azure-fundamentals/
+- [01 – Describe Cloud Concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+- [02 – Describe Azure Architecture and Services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
+- [03 – Describe Azure Management and Governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
+
 - **Study guide oficial AZ-900:**  
   https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-900
 ---
